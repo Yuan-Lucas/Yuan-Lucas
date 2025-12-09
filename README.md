@@ -30,7 +30,6 @@ Portifólio: "Em andamento"
     Aluno/Institucional: yuan.sousa@ucsal.edu.br
 }
 
-2 - Linkedin {
     
 <!--
 **Yuan-Lucas/Yuan-Lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
